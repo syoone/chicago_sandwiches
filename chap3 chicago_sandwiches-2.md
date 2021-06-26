@@ -208,8 +208,7 @@ df.head()
 
 
 ```python
-#gmaps_key ='AIzaSyCWTVUAdJaFfj41etI2b_EBBRsHYet1VZQ'
-gmaps_key ='AIzaSyB7Lq1eQOfGMZuzKYBw9EnPQf1eq0GkQ0I'
+gmaps_key ='*****'
 gmaps = googlemaps.Client(key=gmaps_key)
 ```
 
