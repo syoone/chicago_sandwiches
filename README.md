@@ -18,4 +18,4 @@ Chapter 3 Chicago Sandwiches Scraping By Python on Dec. 20, 2020
 ### Chapter 6. 19대 대선 결과 분석
 ### Chapter 7. 시계열 데이터를 다뤄보자
 ### Chapter 8. 자연어 처리 시작하기
-찾아보기
+### 찾아보기
